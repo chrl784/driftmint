@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+.env.local
+.driftmint-sandbox.json
+out
+dist
+*.tsbuildinfo
+next-env.d.ts
